@@ -1,0 +1,3 @@
+[build]
+  command = "mkdir -p dist && cp 'robocop_miniatures_llc_website_prototype (1).html' dist/index.html"
+  publish = "dist"
